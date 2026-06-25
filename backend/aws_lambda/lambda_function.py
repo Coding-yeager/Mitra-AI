@@ -13,7 +13,7 @@ def lambda_handler(event, context):
         if http_method == 'GET' or not event.get('body'):
             return {
                 'statusCode': 200,
-                'body': 'LokMitra Webhook Listener is Active! (Waiting for POST requests from Vapi)'
+                'body': 'Mitra Webhook Listener is Active! (Waiting for POST requests from Vapi)'
             }
 
         # Parse the body

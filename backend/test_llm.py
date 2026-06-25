@@ -8,7 +8,7 @@ import django
 
 # Setup Django environment
 sys.path.insert(0, os.path.dirname(__file__))
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'lokmitra_backend.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Mitra_backend.settings')
 django.setup()
 
 print("Testing LLM Connection...")

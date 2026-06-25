@@ -467,7 +467,7 @@ export default function AboutPage({ userSession, accentColor }: AboutPageProps) 
                                 <span className="text-blue-600">On The Fly</span>
                             </h2>
                             <p className="text-lg text-gray-600 mb-12 leading-relaxed">
-                                Traditional systems require weeks of coding. LokMitra-AI builds fully functional voice agents in seconds based on your description and data.
+                                Traditional systems require weeks of coding. Mitra-AI builds fully functional voice agents in seconds based on your description and data.
                             </p>
 
                             <div className="space-y-2">

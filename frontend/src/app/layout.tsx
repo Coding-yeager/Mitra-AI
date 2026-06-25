@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "LokMitra AI - Responsive AI Dashboard",
+  title: "Mitra AI - Responsive AI Dashboard",
   description: "AI-powered dashboard for government and corporate entities",
 };
 

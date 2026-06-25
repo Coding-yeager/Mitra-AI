@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LokMitra%20AI&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mitra%20AI&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <div style="background-color: #060b14; margin-top: -30px; padding: 40px 0;">
   <a href="https://git.io/typing-svg">
@@ -37,7 +37,7 @@
 
 ## 🌟 Overview
 
-**LokMitra AI** is a revolutionary AI-powered voice assistant platform designed to bridge the gap between citizens and government services.  
+**Mitra AI** is a revolutionary AI-powered voice assistant platform designed to bridge the gap between citizens and government services.  
 It enables seamless voice interactions, providing instant access to government schemes, databases, and human experts through natural language conversations.
 
 <div align="center">
@@ -118,7 +118,7 @@ It enables seamless voice interactions, providing instant access to government s
 ## 🏗️ Architecture
 <div align="center">
 
-<img src="Architecture.png" alt="LokMitra AI Architecture" width="90%"/>
+<img src="Architecture.png" alt="Mitra AI Architecture" width="90%"/>
 
 </div>
 
@@ -170,7 +170,7 @@ It enables seamless voice interactions, providing instant access to government s
 ## 📊 Project Structure
 
 ```
-LokMitra-AI/
+Mitra-AI/
 ├── 📁 backend/                    # Django Backend
 │   ├── 📁 api/                    # Main API Application
 │   │   ├── 📄 models.py          # Database Models
@@ -295,14 +295,14 @@ LokMitra-AI/
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Coding-yeager/LokMitra-AI?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/Coding-yeager/LokMitra-AI?style=for-the-badge&logo=github)
-![GitHub forks](https://img.shields.io/github/forks/Coding-yeager/LokMitra-AI?style=for-the-badge&logo=github)
-![GitHub issues](https://img.shields.io/github/issues/Coding-yeager/LokMitra-AI?style=for-the-badge&logo=github)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Coding-yeager/LokMitra-AI?style=for-the-badge&logo=github)
-![GitHub contributors](https://img.shields.io/github/contributors/Coding-yeager/LokMitra-AI?style=for-the-badge&logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/Coding-yeager/LokMitra-AI?style=for-the-badge&logo=github)
-![GitHub license](https://img.shields.io/github/license/Coding-yeager/LokMitra-AI?style=for-the-badge&logo=github)
+![GitHub repo size](https://img.shields.io/github/repo-size/Coding-yeager/Mitra-AI?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/Coding-yeager/Mitra-AI?style=for-the-badge&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/Coding-yeager/Mitra-AI?style=for-the-badge&logo=github)
+![GitHub issues](https://img.shields.io/github/issues/Coding-yeager/Mitra-AI?style=for-the-badge&logo=github)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Coding-yeager/Mitra-AI?style=for-the-badge&logo=github)
+![GitHub contributors](https://img.shields.io/github/contributors/Coding-yeager/Mitra-AI?style=for-the-badge&logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/Coding-yeager/Mitra-AI?style=for-the-badge&logo=github)
+![GitHub license](https://img.shields.io/github/license/Coding-yeager/Mitra-AI?style=for-the-badge&logo=github)
 
 </div>
 
