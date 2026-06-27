@@ -18,18 +18,6 @@
   <img src="https://img.shields.io/badge/Gemini-2.5-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
 </p>
 
-<hr />
-<!-- Social Links -->
-<!-- Social Links -->
-<h3>🚀 Project Links</h3>
-<p align="center">
-  <a href="https://youtu.be/OB-zzxz6e8Y?si=DVnbjeScFWHRnNTQ"><b>Video Demo</b></a> • 
-  <a href="https://youtube.com/playlist?list=PLsLuXr7FW3LwKIL9K6SJDIRh2qISQKnsq&si=p_Dra1UWf91P_iyu"><b>Extra Features Playlist</b></a> • 
-  <a href="https://drive.google.com/file/d/1ZVUwnB5UE8Nv0b406zvQyzalklAOD9Y8/view?usp=drivesdk"><b>Documentation</b></a> • 
-  <a href="https://main.d2fret8i3g9956.amplifyapp.com/"><b>Live Website</b></a> •
-  <a href="https://drive.google.com/file/d/1oTjmFBBuKeb98eHA6RqLybZRMYRj4Cie/view?usp=sharing"><b>Installation Guide</b></a>
-</p>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
