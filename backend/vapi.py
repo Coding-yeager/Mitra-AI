@@ -14,7 +14,7 @@ VAPI_API_KEY = os.getenv("VAPI_API_KEY")
 VAPI_BASE_URL = os.getenv("VAPI_BASE_URL", "https://api.vapi.ai")
 
 PHONE_NUMBER_ID = os.getenv("PHONE_NUMBER_ID")
-CUSTOMER_PHONE = os.getenv("CUSTOMER_PHONE", "+919876543210")
+CUSTOMER_PHONE = os.getenv("CUSTOMER_PHONE")
 
 ASSISTANT_NAME = "Sahayaki"   # 👈 FINAL NAME
 
